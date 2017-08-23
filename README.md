@@ -51,3 +51,4 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 
 **Target Variable**
 - `survival` : Survival (0 = No; 1 = Yes)# machine-learning
+# Machine-learning
